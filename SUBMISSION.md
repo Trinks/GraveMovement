@@ -1,22 +1,21 @@
 # Graveyard Hackathon Submission
 
 ## Project Name
-**Alerith** - Trustless MMORPG on Solana
+**Alerith** 
 
 ## One-Line Description
-A fully playable browser-based MMORPG with on-chain PvP wagering, a provably fair VRF loot system, and an NFT item marketplace — all powered by Solana.
+A fully playable browser-based MMORPG with on-chain PvP wagering, a provably fair VRF loot system, and an NFT item marketplace 
 
 ## GitHub Repo
-https://github.com/Trinks/TheAlerithGame
+https://github.com/Trinks/GraveMovement
 
 ## Demo / Pitch Video
-<!-- TODO: Add video link before submission -->
 [Link to demo video]
 
 ## Relevant Links
-<!-- TODO: Fill in before submission -->
-- **Deployed Demo (WebGL):** [Link to deployed build]
 - **X Handle:** [@PlayAlerith](https://x.com/PlayAlerith)
+- **Telegram Handle:** [@Alerith](https://t.me/Alerith)
+- **Website:** (https://alerith.com)
 
 ## Sponsors Applying For
 - **MagicBlock** — VRF (Verifiable Random Function) for provably fair boss loot drops
@@ -26,13 +25,9 @@ https://github.com/Trinks/TheAlerithGame
 - Session key auto-approval framework to eliminate remaining wallet popups
 - Mainnet deployment with real economic incentives
 - SOAR leaderboard integration for ranked PvP seasons
-- NFT royalties via Metaplex transfer hooks on marketplace resales
-- Guild treasuries and on-chain governance for player-run factions
-- Mobile client with wallet adapter support
 
 ## Telegram Handle
-<!-- TODO: Add Telegram handle -->
-@YourTelegramHandle
+xTrinks
 
 ---
 
@@ -40,7 +35,7 @@ https://github.com/Trinks/TheAlerithGame
 
 ### What is Alerith?
 
-Alerith is a fully playable, MMORPG built in Unity with Mirror networking. It features tick-based combat for a duel arena while featuring ability style combat for open world, 16 trainable skills, a quest system, crafting, gathering, and a full creature/NPC ecosystem. On top of this complete game foundation, we integrated three custom Solana programs to bring trustless economics to the MMO genre — without sacrificing gameplay or adding latency.
+Alerith is a fully playable, MMORPG built in Unity with Mirror networking. It features tick-based combat for a duel arena while featuring ability style combat for open world, 16 trainable skills, a quest system, crafting, gathering, and a full creature/NPC ecosystem. On top of this complete game foundation, we integrated three custom Solana programs to bring trustless economics to the MMO genre without sacrificing gameplay or adding latency.
 
 The core philosophy: **the game server stays authoritative for game logic** (combat, movement, skills) while **Solana handles economic settlement** (wagering, item ownership, loot provenance). Players get the responsiveness of a traditional MMO with the trustlessness of on-chain verification.
 
