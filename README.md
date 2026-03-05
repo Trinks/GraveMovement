@@ -106,12 +106,22 @@ GraveyardSubmission/
 ├── SPONSOR_INTEGRATION.md           # MagicBlock VRF integration deep-dive
 │
 ├── anchor-program/
+│   ├── alerith_arena.rs            # Anchor program (Rust) — PvP Wagering
+│   ├── alerith_marketplace.rs      # Anchor program (Rust) — NFT Marketplace
 │   └── alerith_loot_vrf.rs         # Anchor program (Rust) — VRF Loot
 │
 ├── sidecar/
-│   ├── vrf-service.ts              # VRF service (TypeScript) — request + poll
-│   ├── vrf-routes.ts               # REST API routes for VRF
-│   └── vault-service.ts            # NFT mint/burn/query (Metaplex Core)
+│   ├── arena-service.ts            # Arena escrow/settlement service
+│   ├── arena-routes.ts             # Arena REST API routes
+│   ├── marketplace-service.ts      # Marketplace listing/buyout service
+│   ├── marketplace-routes.ts       # Marketplace REST API routes
+│   ├── darkAuction-service.ts      # Dark Auction House service
+│   ├── darkAuction-routes.ts       # Dark Auction House routes
+│   ├── vrf-service.ts              # VRF service — request + poll
+│   ├── vrf-routes.ts               # VRF REST API routes
+│   ├── vault-service.ts            # NFT mint/burn/query (Metaplex Core)
+│   ├── seededRandom.ts             # xoshiro256** TypeScript port (verification)
+│   └── verify-routes.ts            # Public verification API (replay loot/combat)
 │
 └── game-server/
     ├── VrfLootProvider.cs           # Static delegate bridge (Core assembly)
