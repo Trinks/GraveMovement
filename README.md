@@ -24,6 +24,9 @@ On top of this complete game foundation, we integrated three custom Solana progr
 ### Arena — On-Chain PvP Wager Staking
 ![Duel Arena Wager](screenshots/duel_arena_wager_stake.png)
 
+### Arena — Tick-Based Duel Combat
+![Duel Arena Fight](screenshots/duel_arena_fight.jpg)
+
 ### Arena — Duel Victory & SOL Payout
 ![Duel Won](screenshots/duel_won.png)
 
