@@ -4,13 +4,13 @@
 **Alerith** 
 
 ## One-Line Description
-A fully playable browser-based MMORPG with on-chain PvP wagering, a provably fair VRF loot system, and an NFT item marketplace 
+A fully playable MMORPG with on-chain PvP wagering, a provably fair VRF loot system, and an NFT item marketplace 
 
 ## GitHub Repo
 https://github.com/Trinks/GraveMovement
 
 ## Demo / Pitch Video
-[Link to demo video]
+https://x.com/PlayAlerith/status/2028475960190742689
 
 ## Relevant Links
 - **X Handle:** [@PlayAlerith](https://x.com/PlayAlerith)
@@ -21,6 +21,7 @@ https://github.com/Trinks/GraveMovement
 - **MagicBlock** — VRF (Verifiable Random Function) for provably fair boss loot drops
 
 ## Next on the Roadmap
+- Working towards launch
 - Compressed NFTs (cNFTs via Bubblegum) to reduce minting costs at scale
 - Session key auto-approval framework to eliminate remaining wallet popups
 - Mainnet deployment with real economic incentives
