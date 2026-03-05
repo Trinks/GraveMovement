@@ -16,6 +16,25 @@ On top of this complete game foundation, we integrated three custom Solana progr
 
 ---
 
+## Screenshots
+
+### VRF Loot Drop — Provably Fair Boss Loot (MagicBlock)
+![VRF Loot Drop](screenshots/vrf_loot_drop.png)
+
+### Arena — On-Chain PvP Wager Staking
+![Duel Arena Wager](screenshots/duel_arena_wager_stake.png)
+
+### Arena — Duel Victory & SOL Payout
+![Duel Won](screenshots/duel_won.png)
+
+### Dark Auction House — NFT Marketplace
+![Auction House](screenshots/ingame_auction_house.png)
+
+### Dark Bank — Withdraw Items to Solana Wallet
+![Dark Bank](screenshots/dark_bank.png)
+
+---
+
 ## Solana Integration: Three Anchor Programs
 
 ### 1. Arena — On-Chain PvP Wagering
